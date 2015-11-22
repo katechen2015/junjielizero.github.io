@@ -90,9 +90,9 @@ googleAnaly:
 
 #comment config
 disqus:
-  config: false
-  id: piznblog
+  config: true
+  id: junjielizero
 
 duoshuo:
-  config: true
+  config: false
   id: zhanxin
