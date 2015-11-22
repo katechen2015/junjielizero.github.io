@@ -75,7 +75,6 @@ follow:
 
 #Links
 customLinks:
-    message: Friends
   - item:
     - text: Font Awesome
       url: http://fortawesome.github.io/Font-Awesome/
